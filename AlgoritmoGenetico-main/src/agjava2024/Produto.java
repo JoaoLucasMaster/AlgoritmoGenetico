@@ -3,7 +3,7 @@ package agjava2024;
 public class Produto {
     private String descricao;
     private double peso;
-    private double valor;  // Note que 'valor' agora representa o volume
+    private double valor; 
     private double largura;
     private double altura;
     private double profundidade;
